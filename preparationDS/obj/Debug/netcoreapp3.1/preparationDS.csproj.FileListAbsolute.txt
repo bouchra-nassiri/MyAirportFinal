@@ -1,0 +1,11 @@
+/Users/macair/Desktop/MyAirport 2/preparationDS/obj/Debug/netcoreapp3.1/preparationDS.csproj.CoreCompileInputs.cache
+/Users/macair/Desktop/MyAirport 2/preparationDS/obj/Debug/netcoreapp3.1/preparationDS.AssemblyInfoInputs.cache
+/Users/macair/Desktop/MyAirport 2/preparationDS/obj/Debug/netcoreapp3.1/preparationDS.AssemblyInfo.cs
+/Users/macair/Desktop/MyAirport 2/preparationDS/bin/Debug/netcoreapp3.1/preparationDS.deps.json
+/Users/macair/Desktop/MyAirport 2/preparationDS/bin/Debug/netcoreapp3.1/preparationDS.runtimeconfig.json
+/Users/macair/Desktop/MyAirport 2/preparationDS/bin/Debug/netcoreapp3.1/preparationDS.runtimeconfig.dev.json
+/Users/macair/Desktop/MyAirport 2/preparationDS/bin/Debug/netcoreapp3.1/preparationDS.dll
+/Users/macair/Desktop/MyAirport 2/preparationDS/bin/Debug/netcoreapp3.1/preparationDS.pdb
+/Users/macair/Desktop/MyAirport 2/preparationDS/obj/Debug/netcoreapp3.1/preparationDS.dll
+/Users/macair/Desktop/MyAirport 2/preparationDS/obj/Debug/netcoreapp3.1/preparationDS.pdb
+/Users/macair/Desktop/MyAirport 2/preparationDS/obj/Debug/netcoreapp3.1/preparationDS.genruntimeconfig.cache

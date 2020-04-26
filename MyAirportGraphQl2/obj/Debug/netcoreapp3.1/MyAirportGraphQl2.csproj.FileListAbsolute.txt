@@ -1,0 +1,5 @@
+/Users/macair/Desktop/MyAirport 2/MyAirportGraphQl2/obj/Debug/netcoreapp3.1/MyAirportGraphQl2.csprojAssemblyReference.cache
+/Users/macair/Desktop/MyAirport 2/MyAirportGraphQl2/obj/Debug/netcoreapp3.1/MyAirportGraphQl2.csproj.CoreCompileInputs.cache
+/Users/macair/Desktop/MyAirport 2/MyAirportGraphQl2/obj/Debug/netcoreapp3.1/MyAirportGraphQl2.MvcApplicationPartsAssemblyInfo.cache
+/Users/macair/Desktop/MyAirport 2/MyAirportGraphQl2/obj/Debug/netcoreapp3.1/MyAirportGraphQl2.AssemblyInfoInputs.cache
+/Users/macair/Desktop/MyAirport 2/MyAirportGraphQl2/obj/Debug/netcoreapp3.1/MyAirportGraphQl2.AssemblyInfo.cs

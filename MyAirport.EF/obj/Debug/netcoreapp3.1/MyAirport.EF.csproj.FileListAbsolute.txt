@@ -1,0 +1,22 @@
+/Users/joris/Document/ECE/ING4/C#/MyAirport/MyAirport.EF/bin/Debug/netcoreapp3.1/MyAirport.EF.deps.json
+/Users/joris/Document/ECE/ING4/C#/MyAirport/MyAirport.EF/bin/Debug/netcoreapp3.1/MyAirport.EF.dll
+/Users/joris/Document/ECE/ING4/C#/MyAirport/MyAirport.EF/bin/Debug/netcoreapp3.1/MyAirport.EF.pdb
+/Users/joris/Document/ECE/ING4/C#/MyAirport/MyAirport.EF/obj/Debug/netcoreapp3.1/MyAirport.EF.csprojAssemblyReference.cache
+/Users/joris/Document/ECE/ING4/C#/MyAirport/MyAirport.EF/obj/Debug/netcoreapp3.1/MyAirport.EF.AssemblyInfoInputs.cache
+/Users/joris/Document/ECE/ING4/C#/MyAirport/MyAirport.EF/obj/Debug/netcoreapp3.1/MyAirport.EF.AssemblyInfo.cs
+/Users/joris/Document/ECE/ING4/C#/MyAirport/MyAirport.EF/obj/Debug/netcoreapp3.1/MyAirport.EF.dll
+/Users/joris/Document/ECE/ING4/C#/MyAirport/MyAirport.EF/obj/Debug/netcoreapp3.1/MyAirport.EF.pdb
+/Users/joris/Document/ECE/ING4/C#/MyAirport/MyAirport.EF/bin/Debug/netcoreapp3.1/MyAirport.EF.runtimeconfig.json
+/Users/joris/Document/ECE/ING4/C#/MyAirport/MyAirport.EF/bin/Debug/netcoreapp3.1/MyAirport.EF.runtimeconfig.dev.json
+/Users/macair/Desktop/MyAirport 2/MyAirport.EF/bin/Debug/netcoreapp3.1/MyAirport.EF.deps.json
+/Users/macair/Desktop/MyAirport 2/MyAirport.EF/bin/Debug/netcoreapp3.1/MyAirport.EF.runtimeconfig.json
+/Users/macair/Desktop/MyAirport 2/MyAirport.EF/bin/Debug/netcoreapp3.1/MyAirport.EF.runtimeconfig.dev.json
+/Users/macair/Desktop/MyAirport 2/MyAirport.EF/bin/Debug/netcoreapp3.1/MyAirport.EF.dll
+/Users/macair/Desktop/MyAirport 2/MyAirport.EF/bin/Debug/netcoreapp3.1/MyAirport.EF.pdb
+/Users/macair/Desktop/MyAirport 2/MyAirport.EF/obj/Debug/netcoreapp3.1/MyAirport.EF.csprojAssemblyReference.cache
+/Users/macair/Desktop/MyAirport 2/MyAirport.EF/obj/Debug/netcoreapp3.1/MyAirport.EF.csproj.CoreCompileInputs.cache
+/Users/macair/Desktop/MyAirport 2/MyAirport.EF/obj/Debug/netcoreapp3.1/MyAirport.EF.AssemblyInfoInputs.cache
+/Users/macair/Desktop/MyAirport 2/MyAirport.EF/obj/Debug/netcoreapp3.1/MyAirport.EF.AssemblyInfo.cs
+/Users/macair/Desktop/MyAirport 2/MyAirport.EF/obj/Debug/netcoreapp3.1/MyAirport.EF.dll
+/Users/macair/Desktop/MyAirport 2/MyAirport.EF/obj/Debug/netcoreapp3.1/MyAirport.EF.pdb
+/Users/macair/Desktop/MyAirport 2/MyAirport.EF/obj/Debug/netcoreapp3.1/MyAirport.EF.genruntimeconfig.cache
